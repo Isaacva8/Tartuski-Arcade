@@ -24,3 +24,5 @@ In this second menu we edit:
 - In the center we place the cover of the game and a trailer of the game we are selecting.
 - At the bottom we place the selection of games with a circular scroll, and a selector frame that tells you what game we are watching.
 - We place the background cover photo with opacity.
+
+### At this point we have an .xml file that contains everything that we have explained before
