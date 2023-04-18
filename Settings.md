@@ -199,5 +199,5 @@ In this second menu we edit:
 
 ![image](https://user-images.githubusercontent.com/131180909/232867934-91e2656c-4d10-4e47-9811-75fba89b974d.png)
 
-![image](https://user-images.githubusercontent.com/131180909/232868093-f4667b03-8359-4498-bfd7-7504f0a3c7a9.png)
+![image](https://user-images.githubusercontent.com/131180909/232868230-3d1a3c1c-3f16-4d9e-bfb6-c16055a278d9.png)
 
