@@ -3,7 +3,9 @@ The selected program has to be edited using files in the xml format. In this cas
 
 On the main screen, we have changed the console selection orientation by giving it a vertical position, a background image of one of the randomly added games from the console itself, as well as a video of it to preview gameplay.
 
-Once the console is selected, we will go to the selection of the games for that console. Here we have added the name of the console and an image of it. Additionally, we've added game art along with a video to showcase it and a background image with low opacity. To give more information about the game we have implemented how many people can play simultaneously. Finally, we have added a carousel to select the games with a circular shape next to a frame to highlight the game that is displayed on the screen.
+Once the console is selected, we will go to the selection of the games for that console. Here we have added the name of the console and an image of it. Additionally, we've added game art along with a video to showcase it and a background image with low opacity. To give more information about the game we have implemented how many people can play simultaneously. 
+
+Finally, we have added a carousel to select the games with a circular shape next to a frame to highlight the game that is displayed on the screen.
 
 One of the final modifications is that when starting the arcade machine (computer) it directly starts the emulator.
 We have grouped the different games together with their corresponding console.
