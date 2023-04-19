@@ -1,25 +1,26 @@
-**EmulationStation** es un emulador gráfico que permite personalizarlo a tu gusto con diferentes temas, que te permite acceder a todos tus juegos favoritos en un solo lugar.
-El programa seleccionado se tiene que editar mediante archivos con el formato xml. En este caso hemos editado varias opciones, esas son:
+**EmulationStation** is a graphical emulator that allows you to customize it to your liking with different themes, which allows you to access all your favorite games in one place.
+The selected program has to be edited using files in the xml format. In this case we have edited several options, these are:
 
-En la pantalla principal, hemos cambiado la orientación de selección de consolas dándole una posición vertical, una imagen de fondo de uno de los juegos agregados aleatoriamente de la propia consola, así como un video del mismo para previsualizar el juego.
+On the main screen, we have changed the console selection orientation by giving it a vertical position, a background image of one of the randomly added games from the console itself, as well as a video of it to preview gameplay.
 
-Una vez seleccionada la consola pasaremos a la selección de los juegos de esa misma. Aquí hemos añadido, el nombre de la consola y una imagen de ella. Además, hemos añadido la carátula del juego junto a un video para mostrarlo y una imagen de fondo con una baja opacidad. Para dar más información sobre el juego hemos implementado cuantas personas pueden jugar simultáneamente. Para finalizar hemos añadido un carrusel para seleccionar los juegos con forma circular junto a un marco para resaltar el juego que se muestra en pantalla.
+Once the console is selected, we will go to the selection of the games for that console. Here we have added the name of the console and an image of it. Additionally, we've added game art along with a video to showcase it and a background image with low opacity. To give more information about the game we have implemented how many people can play simultaneously. Finally, we have added a carousel to select the games with a circular shape next to a frame to highlight the game that is displayed on the screen.
 
-Una de las modificaciones finales es que al iniciar la máquina arcade (ordenador) arranque directamente el emulador.
-Hemos agrupado los diferentes juegos junto a su consola correspondiente.
+One of the final modifications is that when starting the arcade machine (computer) it directly starts the emulator.
+We have grouped the different games together with their corresponding console.
 
-Estas son las consolas que hemos seleccionado:
-* Arcade
-* Amiga
-* Atari
-* Mame
+These are the consoles we have selected:
+* arcade
+* Friend
+*Atari
+* suck me
 * PlayStation
-* PlayStation 2
-* PlayStationPortable
+* Playstation 2
+* PlayStation Portable
 * Nintendo 64
-* Nes
-* Neo Geo
-Demostración del menú:
+* nes
+* neogeo
+
+**Menu Demo:**
 
 https://user-images.githubusercontent.com/131199367/233153739-f5e0384f-620c-47af-bb37-cae058fb4d31.mp4
 
