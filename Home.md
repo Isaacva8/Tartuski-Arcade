@@ -5,6 +5,8 @@ Feel free to explore my repositories and projects, and feel free to contact me i
 
 * <a href=https://github.com/TartuskiJose/Tartuski/wiki/Documentation-of-Menu>Documentation of Menu</a>
 
-* <a href=https://github.com/TartuskiJose/Tartuski/wiki/Arcade-machine-blueprints>Arcade machine blueprints</a>
+* <a href=https://github.com/TartuskiJose/Tartuski/wiki/Arcade-machine-blueprints> Arcade machine blueprints </a>
+
+* <a href=https://github.com/TartuskiJose/Tartuski/wiki/Emulation-Station> Emulation Station </a>
 
 
