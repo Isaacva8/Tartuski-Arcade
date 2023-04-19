@@ -1,0 +1,1 @@
+<a href=https://github.com/TartuskiJose/Tartuski/wiki/Arcade-machine-blueprints>Blueprints</a>
