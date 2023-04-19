@@ -1,4 +1,4 @@
-# Welcome to the Tartuski wiki!
+# Menu and theme
 
 We take an initial theme and edit it to our liking, moving elements around, inserting images, removing irrelevant pieces of information, changing the selection of consoles and games, and putting in minimal information.
 
