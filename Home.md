@@ -9,4 +9,4 @@ Feel free to explore my repositories and projects, and feel free to contact me i
 
 * <a href=https://github.com/TartuskiJose/Tartuski/wiki/Emulation-Station> Emulation Station </a>
 
-
+* <a href=https://github.com/TartuskiJose/Tartuski/wiki/RetroArch> RetroArch </a>
