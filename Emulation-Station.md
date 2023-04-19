@@ -9,14 +9,14 @@ Una de las modificaciones finales es que al iniciar la máquina arcade (ordenado
 Hemos agrupado los diferentes juegos junto a su consola correspondiente.
 
 Estas son las consolas que hemos seleccionado:
-Arcade
-Amiga
-Atari
-Mame
-PlayStation
-PlayStation 2
-PlayStationPortable
-Nintendo 64
-Nes
-Neo Geo
+* Arcade
+* Amiga
+* Atari
+* Mame
+* PlayStation
+* PlayStation 2
+* PlayStationPortable
+* Nintendo 64
+* Nes
+* Neo Geo
 Demostración del menú:
