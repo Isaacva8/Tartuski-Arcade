@@ -1,7 +1,5 @@
 # Welcome to the Tartuski wiki!
 
-In this wiki we have the configuration file of the theme and some demonstrative images about the controls that we have.
-
 We take an initial theme and edit it to our liking, moving elements around, inserting images, removing irrelevant pieces of information, changing the selection of consoles and games, and putting in minimal information.
 
 ## Next we have a demonstrative pictures with some information :
