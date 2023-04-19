@@ -9,16 +9,16 @@ One of the final modifications is that when starting the arcade machine (compute
 We have grouped the different games together with their corresponding console.
 
 These are the consoles we have selected:
-* arcade
-* Friend
-*Atari
-* suck me
+* Arcade
+* Amiga
+* Atari
+* Mame
 * PlayStation
-* Playstation 2
-* PlayStation Portable
+* PlayStation 2
+* PlayStationPortable
 * Nintendo 64
-* nes
-* neogeo
+* Nes
+* Neo Geo
 
 **Menu Demo:**
 
