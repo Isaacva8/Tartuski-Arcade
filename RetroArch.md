@@ -8,12 +8,14 @@ In the settings we enter Directories (Settings -> Directories), in the System/Bi
 
 Besides, in the same place we will find in the Cores section where there is a default folder called cores, in which we will put all the files to start the console that we are emulating.
 
+### Scaling
 
+To change the image scaling we enter scaling (settings -> video -> scaling) in the aspect ratio section we select configuration so that the image occupies the entire screen.
 
+### Controls
 
-* The first thing we have modified are the controls to be able to play and navigate the menu correctly.
-* We have changed the scale of the in-game image, so that the black sidebars are not visible in order to have a greater visual space of the game.
-* A very important option has been to download and install the necessary kernels for each emulator, since without them it is not possible for a game to start.
+Within input (settings -> input) we modify the controls of port X, in each port we assign a control, inside we will see the option Device Index where we will assign the control we want, and below to assign the controls to our liking.
+
 
 ### Shaders :
 
