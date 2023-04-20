@@ -23,6 +23,7 @@ Within input (settings -> input) we modify the controls of port X, in each port 
 
 ### Shaders :
 
+**To update the current shaders we will enter the Main Menu, Online Updater, select the option Update Slang shaders, (Main Menu -> Online Updater -> Update Slang shaders).**
 * We have put shaders to be able to visualize the games in a more retro way and the image is not so clear.
 * One of the shaders that we have put crt-geom-deluxe.slang:
   * In the first image we can see how the image looks sharper and without black horizontal lines, on the other hand. 
