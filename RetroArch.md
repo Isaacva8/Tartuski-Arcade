@@ -4,8 +4,6 @@
 
 In the settings we enter Directories (Settings -> Directories), in the System/Bios section we will see a default folder called bios, in which we will put all the necessary bios so that the emulator can start and work correctly.
 
-[Download Bios](https://drive.google.com/file/d/10svs6HMP72ZN4nAyeNh_bNT_hakfnIHD/view?usp=share_link)
-
 ### Cores
 
 Besides, in the same place we will find in the Cores section where there is a default folder called cores, in which we will put all the files to start the console that we are emulating.
