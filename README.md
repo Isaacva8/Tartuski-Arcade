@@ -41,7 +41,7 @@ With these steps you will have downloaded and installed EmulationStation on your
 
 ### <a href=https://github.com/TartuskiJose/Tartuski/wiki/Emulation-Station>Emulation Station</a>
 
-<img src="Icons/EM.png" />
+<img src="EM.png" />
 
 ### Our configuration file is in the xml extension, here is the theme that we have, which we edited from the initial one.
 
@@ -75,7 +75,7 @@ Within retroarch we enter Settings -> Directories, and assign a folder to assign
 
 ### <a href=https://github.com/TartuskiJose/Tartuski/wiki/RetroArch>RetroArch</a>
 
-<img src="Icons/Retroarch.png" width=500 height=500 />
+<img src="Retroarch.png" width=500 height=500 />
 
 
 
